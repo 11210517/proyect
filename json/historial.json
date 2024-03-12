@@ -1,0 +1,8 @@
+[
+  {
+    "id": "123",
+    "nombre" : "Juana Perez",
+    "enfermedad" : ["Diabetes","Hipertencion","Presion alta"]
+  }
+
+]
